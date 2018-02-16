@@ -1,0 +1,20 @@
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\bin\Debug\ATM Banking system.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\bin\Debug\ATM Banking system.exe
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\bin\Debug\ATM Banking system.pdb
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM_Banking_system.frmAdminPageOpenAccount.resources
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM_Banking_system.frmUser.resources
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM_Banking_system.Form1.resources
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM_Banking_system.frmAdminPage.resources
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM_Banking_system.frmLoginPageEnglish.resources
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM_Banking_system.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM Banking system.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM Banking system.exe
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM Banking system.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM Banking system.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM_Banking_system.frmUser_Balance_Enquiry2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM_Banking_system.frmDashBoard.resources
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM_Banking_system.frmMoneyWithdraw.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM_Banking_system.frmUser_Deposit_Money.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM_Banking_system.frmUser_TransferMoney.resources
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM_Banking_system.frmUser_Setting.resources
+C:\Users\User\documents\visual studio 2015\Projects\ATM Banking system\ATM Banking system\obj\Debug\ATM_Banking_system.frmAdmin_EditAccount.resources

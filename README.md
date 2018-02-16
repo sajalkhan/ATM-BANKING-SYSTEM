@@ -3,6 +3,8 @@
 Atm Banking system has user and admin panal. where a user can transfer,deposit,withdraw his money also user can update his settings form our Atm system. and admin can add new user and also a admin can update, delete, edit any user information.
 ### To develope this project i use C# programming language and SQL database server 2014.
 
+![](ATM.gif)
+
 ### Advantage
 * User can Transfer his money
 * User can Withdraw his money
